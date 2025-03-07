@@ -116,6 +116,10 @@ project_brief = st.text_area("Enter Project Brief:")
 json_filepath = "structured_data.json"  # Provide the correct path to the JSON file
 csv_filepath = "quotation_hours.csv"    # Provide the correct path to the CSV file
 api_key = st.secrets["OPENAI_API_KEY"]  # Ensure the key is stored in Streamlit secrets
+
+if "df" not in st.session_state:
+    st.session_state.df = pd.DataFrame()
+
 if st.button("Identify Components"):
     with st.spinner("Decomposing the project..."):
         result = analyze_project_with_json_in_prompt(project_brief, json_filepath, api_key)
