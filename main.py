@@ -141,8 +141,9 @@ if st.button("Calculate Quotation"):
         st.download_button("Download JSON", json_data, file_name="quotation.json", mime="application/json")
 
 if st.button("New Quotation"):
-    st.session_state.clear()
-st.session_state.df = pd.DataFrame()
+    st.session_state.df = pd.DataFrame()
+    if "quotation_df" in st.session_state:
+        del st.session_state.quotation_df
 
 # Footer
 st.markdown("---")
