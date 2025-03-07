@@ -126,8 +126,9 @@ if st.button("Identify Components"):
         if "components" in result:
             st.session_state.df = pd.DataFrame(result["components"])
 
-st.write("### Identified Components:")
-st.session_state.df = st.data_editor(st.session_state.df, num_rows="dynamic", key="edited_df")
+if not st.session_state.df.empty:
+    st.write("### Identified Components:")
+    st.session_state.df = st.data_editor(st.session_state.df, num_rows="dynamic", key="edited_df")
 
 if st.button("Calculate Quotation"):
     with st.spinner("Calculating work hours..."):
