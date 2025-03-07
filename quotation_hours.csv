@@ -1,0 +1,314 @@
+service_id,product_id,type_of_work_id,type_of_work_name,complexity,service_name,product_name,hours_per_key_art,hours_per_resize,hours_per_variant
+2002,6003,40,Production,EDIT,Digital Banner Ad Design,Static Digital Banners,4,1,0.5
+2002,6003,40,Production,LOW,Digital Banner Ad Design,Static Digital Banners,6,1.5,1
+2002,6003,20,Creative Development,MEDIUM,Digital Banner Ad Design,Static Digital Banners,8,2,1.5
+2002,6003,20,Creative Development,HIGH,Digital Banner Ad Design,Static Digital Banners,8,2,2
+2002,6004,40,Production,EDIT,Digital Banner Ad Design,Animated Digital Banners (GIF/HTML),4,1,0.5
+2002,6004,40,Production,LOW,Digital Banner Ad Design,Animated Digital Banners (GIF/HTML),6,1.5,1
+2002,6004,20,Creative Development,MEDIUM,Digital Banner Ad Design,Animated Digital Banners (GIF/HTML),8,2,1.5
+2002,6004,20,Creative Development,HIGH,Digital Banner Ad Design,Animated Digital Banners (GIF/HTML),8,2,2
+2003,6006,40,Production,EDIT,Static Social Design,Social Ads,4,1,0.5
+2003,6006,40,Production,LOW,Static Social Design,Social Ads,6,1.5,1
+2003,6006,20,Creative Development,MEDIUM,Static Social Design,Social Ads,8,2,1.5
+2003,6006,20,Creative Development,HIGH,Static Social Design,Social Ads,8,2,2
+2003,6007,40,Production,EDIT,Static Social Design,Carousel Posts or Stories,4,1,0.5
+2003,6007,40,Production,LOW,Static Social Design,Carousel Posts or Stories,6,1.5,1
+2003,6007,20,Creative Development,MEDIUM,Static Social Design,Carousel Posts or Stories,8,2,1.5
+2003,6007,20,Creative Development,HIGH,Static Social Design,Carousel Posts or Stories,8,2,2
+2008,6027,40,Production,EDIT,Supporting Digital Graphics,"Digital Graphics (Website Headers, Virtual Backgrounds, Blog images, Photo-retouching)",4,1,0.5
+2008,6027,40,Production,LOW,Supporting Digital Graphics,"Digital Graphics (Website Headers, Virtual Backgrounds, Blog images, Photo-retouching)",6,1.5,1
+2008,6027,20,Creative Development,MEDIUM,Supporting Digital Graphics,"Digital Graphics (Website Headers, Virtual Backgrounds, Blog images, Photo-retouching)",8,2,1.5
+2008,6027,20,Creative Development,HIGH,Supporting Digital Graphics,"Digital Graphics (Website Headers, Virtual Backgrounds, Blog images, Photo-retouching)",8,2,2
+2001,6001,40,Production,EDIT,Presentation Design,Presentation,4,1,0.5
+2001,6001,40,Production,LOW,Presentation Design,Presentation,6,1.5,1
+2001,6001,20,Creative Development,MEDIUM,Presentation Design,Presentation,8,2,1.5
+2001,6001,20,Creative Development,HIGH,Presentation Design,Presentation,8,2,2
+2006,6014,40,Production,EDIT,Print Design,Editorials,4,1,0.5
+2006,6014,40,Production,LOW,Print Design,Editorials,6,1.5,1
+2006,6014,20,Creative Development,MEDIUM,Print Design,Editorials,8,2,1.5
+2006,6014,20,Creative Development,HIGH,Print Design,Editorials,8,2,2
+2004,6010,40,Production,EDIT,Packaging & Merch Design,Digital Merchandise,4,1,0.5
+2004,6010,40,Production,LOW,Packaging & Merch Design,Digital Merchandise,6,1.5,1
+2004,6010,20,Creative Development,MEDIUM,Packaging & Merch Design,Digital Merchandise,8,2,1.5
+2004,6010,20,Creative Development,HIGH,Packaging & Merch Design,Digital Merchandise,8,2,2
+2013,6042,40,Production,EDIT,Illustration Design,Illustration,4,1,0.5
+2013,6042,40,Production,LOW,Illustration Design,Illustration,6,1.5,1
+2013,6042,20,Creative Development,MEDIUM,Illustration Design,Illustration,8,2,1.5
+2013,6042,20,Creative Development,HIGH,Illustration Design,Illustration,8,2,2
+2013,6044,40,Production,EDIT,Illustration Design,Storyboard,4,1,0.5
+2013,6044,40,Production,LOW,Illustration Design,Storyboard,6,1.5,1
+2013,6044,20,Creative Development,MEDIUM,Illustration Design,Storyboard,8,2,1.5
+2013,6044,20,Creative Development,HIGH,Illustration Design,Storyboard,8,2,2
+2013,6045,40,Production,EDIT,Illustration Design,Custom Infographic,4,1,0.5
+2013,6045,40,Production,LOW,Illustration Design,Custom Infographic,6,1.5,1
+2013,6045,20,Creative Development,MEDIUM,Illustration Design,Custom Infographic,8,2,1.5
+2013,6045,20,Creative Development,HIGH,Illustration Design,Custom Infographic,8,2,2
+2005,6023,40,Production,EDIT,eBooks & Digital Reports Design,eBook Cover,4,1,0.5
+2005,6023,40,Production,LOW,eBooks & Digital Reports Design,eBook Cover,6,1.5,1
+2005,6023,20,Creative Development,MEDIUM,eBooks & Digital Reports Design,eBook Cover,8,2,1.5
+2005,6023,20,Creative Development,HIGH,eBooks & Digital Reports Design,eBook Cover,8,2,2
+2010,6032,40,Production,EDIT,Email Design,Email Design,4,1,0.5
+2010,6032,40,Production,LOW,Email Design,Email Design,6,1.5,1
+2010,6032,20,Creative Development,MEDIUM,Email Design,Email Design,8,2,1.5
+2010,6032,20,Creative Development,HIGH,Email Design,Email Design,8,2,2
+2015,6047,40,Production,EDIT,Branding,Brand Story Creation,4,1,0.5
+2015,6047,40,Production,LOW,Branding,Brand Story Creation,6,1.5,1
+2015,6047,20,Creative Development,MEDIUM,Branding,Brand Story Creation,8,2,1.5
+2015,6047,20,Creative Development,HIGH,Branding,Brand Story Creation,8,2,2
+2015,6049,40,Production,EDIT,Branding,Logo Development,4,1,0.5
+2015,6049,40,Production,LOW,Branding,Logo Development,6,1.5,1
+2015,6049,20,Creative Development,MEDIUM,Branding,Logo Development,8,2,1.5
+2015,6049,20,Creative Development,HIGH,Branding,Logo Development,8,2,2
+2014,6070,20,Creative Development,MEDIUM,Creative Strategy & Concept,Campaign,8,2,1.5
+2014,6070,20,Creative Development,HIGH,Creative Strategy & Concept,Campaign,8,2,2
+2007,6053,40,Production,EDIT,Copywriting,Static Digital Banners,4,1,0.5
+2007,6053,40,Production,LOW,Copywriting,Static Digital Banners,6,1.5,1
+2007,6053,20,Creative Development,MEDIUM,Copywriting,Static Digital Banners,8,2,1.5
+2007,6053,20,Creative Development,HIGH,Copywriting,Static Digital Banners,8,2,2
+2007,6056,40,Production,EDIT,Copywriting,Carousel Posts or Stories,4,1,0.5
+2007,6056,40,Production,LOW,Copywriting,Carousel Posts or Stories,6,1.5,1
+2007,6056,20,Creative Development,MEDIUM,Copywriting,Carousel Posts or Stories,8,2,1.5
+2007,6056,20,Creative Development,HIGH,Copywriting,Carousel Posts or Stories,8,2,2
+2007,6059,40,Production,EDIT,Copywriting,eBook Cover,4,1,0.5
+2007,6059,40,Production,LOW,Copywriting,eBook Cover,6,1.5,1
+2007,6059,20,Creative Development,MEDIUM,Copywriting,eBook Cover,8,2,1.5
+2007,6059,20,Creative Development,HIGH,Copywriting,eBook Cover,8,2,2
+2007,6066,40,Production,EDIT,Copywriting,Email,4,1,0.5
+2007,6066,40,Production,LOW,Copywriting,Email,6,1.5,1
+2007,6066,20,Creative Development,MEDIUM,Copywriting,Email,8,2,1.5
+2007,6066,20,Creative Development,HIGH,Copywriting,Email,8,2,2
+2007,6067,40,Production,EDIT,Copywriting,Presentation,4,1,0.5
+2007,6067,40,Production,LOW,Copywriting,Presentation,6,1.5,1
+2007,6067,20,Creative Development,MEDIUM,Copywriting,Presentation,8,2,1.5
+2007,6067,20,Creative Development,HIGH,Copywriting,Presentation,8,2,2
+2007,6068,40,Production,EDIT,Copywriting,Brand (Tone of Voice Guide),4,1,0.5
+2007,6068,40,Production,LOW,Copywriting,Brand (Tone of Voice Guide),6,1.5,1
+2007,6068,20,Creative Development,MEDIUM,Copywriting,Brand (Tone of Voice Guide),8,2,1.5
+2007,6068,20,Creative Development,HIGH,Copywriting,Brand (Tone of Voice Guide),8,2,2
+2002,6005,40,Production,EDIT,Digital Banner Ad Design,Digital Out of Home Ads,4,1,0.5
+2002,6005,40,Production,LOW,Digital Banner Ad Design,Digital Out of Home Ads,6,1.5,1
+2002,6005,20,Creative Development,MEDIUM,Digital Banner Ad Design,Digital Out of Home Ads,8,2,1.5
+2002,6005,20,Creative Development,HIGH,Digital Banner Ad Design,Digital Out of Home Ads,8,2,2
+2003,6008,40,Production,EDIT,Static Social Design,Social Media Platform Collateral,4,1,0.5
+2003,6008,40,Production,LOW,Static Social Design,Social Media Platform Collateral,6,1.5,1
+2003,6008,20,Creative Development,MEDIUM,Static Social Design,Social Media Platform Collateral,8,2,1.5
+2003,6008,20,Creative Development,HIGH,Static Social Design,Social Media Platform Collateral,8,2,2
+2003,6009,40,Production,EDIT,Static Social Design,Social Media Guidelines,4,1,0.5
+2003,6009,40,Production,LOW,Static Social Design,Social Media Guidelines,6,1.5,1
+2003,6009,20,Creative Development,MEDIUM,Static Social Design,Social Media Guidelines,8,2,1.5
+2003,6009,20,Creative Development,HIGH,Static Social Design,Social Media Guidelines,8,2,2
+2001,6002,40,Production,EDIT,Presentation Design,Presentation Template,4,1,0.5
+2001,6002,40,Production,LOW,Presentation Design,Presentation Template,6,1.5,1
+2001,6002,20,Creative Development,MEDIUM,Presentation Design,Presentation Template,8,2,1.5
+2001,6002,20,Creative Development,HIGH,Presentation Design,Presentation Template,8,2,2
+2006,6015,40,Production,EDIT,Print Design,Newspaper/Magazine Ad,4,1,0.5
+2006,6015,40,Production,LOW,Print Design,Newspaper/Magazine Ad,6,1.5,1
+2006,6015,20,Creative Development,MEDIUM,Print Design,Newspaper/Magazine Ad,8,2,1.5
+2006,6015,20,Creative Development,HIGH,Print Design,Newspaper/Magazine Ad,8,2,2
+2006,6016,40,Production,EDIT,Print Design,"Pamphlets (Brochures, Flyers, Booklets)",4,1,0.5
+2006,6016,40,Production,LOW,Print Design,"Pamphlets (Brochures, Flyers, Booklets)",6,1.5,1
+2006,6016,20,Creative Development,MEDIUM,Print Design,"Pamphlets (Brochures, Flyers, Booklets)",8,2,1.5
+2006,6016,20,Creative Development,HIGH,Print Design,"Pamphlets (Brochures, Flyers, Booklets)",8,2,2
+2006,6017,40,Production,EDIT,Print Design,Event Collateral Design,4,1,0.5
+2006,6017,40,Production,LOW,Print Design,Event Collateral Design,6,1.5,1
+2006,6017,20,Creative Development,MEDIUM,Print Design,Event Collateral Design,8,2,1.5
+2006,6017,20,Creative Development,HIGH,Print Design,Event Collateral Design,8,2,2
+2006,6018,40,Production,EDIT,Print Design,"Stationary (Business Cards, Letterheads, Envelopes, Pocket Folders, Memos, Notebooks)",4,1,0.5
+2006,6018,40,Production,LOW,Print Design,"Stationary (Business Cards, Letterheads, Envelopes, Pocket Folders, Memos, Notebooks)",6,1.5,1
+2006,6018,20,Creative Development,MEDIUM,Print Design,"Stationary (Business Cards, Letterheads, Envelopes, Pocket Folders, Memos, Notebooks)",8,2,1.5
+2006,6018,20,Creative Development,HIGH,Print Design,"Stationary (Business Cards, Letterheads, Envelopes, Pocket Folders, Memos, Notebooks)",8,2,2
+2006,6019,40,Production,EDIT,Print Design,Posters,4,1,0.5
+2006,6019,40,Production,LOW,Print Design,Posters,6,1.5,1
+2006,6019,20,Creative Development,MEDIUM,Print Design,Posters,8,2,1.5
+2006,6019,20,Creative Development,HIGH,Print Design,Posters,8,2,2
+2006,6020,40,Production,EDIT,Print Design,Reports & Guides (Business Reports & White Papers),4,1,0.5
+2006,6020,40,Production,LOW,Print Design,Reports & Guides (Business Reports & White Papers),6,1.5,1
+2006,6020,20,Creative Development,MEDIUM,Print Design,Reports & Guides (Business Reports & White Papers),8,2,1.5
+2006,6020,20,Creative Development,HIGH,Print Design,Reports & Guides (Business Reports & White Papers),8,2,2
+2006,6021,40,Production,EDIT,Print Design,Book Cover,4,1,0.5
+2006,6021,40,Production,LOW,Print Design,Book Cover,6,1.5,1
+2006,6021,20,Creative Development,MEDIUM,Print Design,Book Cover,8,2,1.5
+2006,6021,20,Creative Development,HIGH,Print Design,Book Cover,8,2,2
+2006,6022,40,Production,EDIT,Print Design,Book Layout,4,1,0.5
+2006,6022,40,Production,LOW,Print Design,Book Layout,6,1.5,1
+2006,6022,20,Creative Development,MEDIUM,Print Design,Book Layout,8,2,1.5
+2006,6022,20,Creative Development,HIGH,Print Design,Book Layout,8,2,2
+2004,6011,40,Production,EDIT,Packaging & Merch Design,Print Merchandise,4,1,0.5
+2004,6011,40,Production,LOW,Packaging & Merch Design,Print Merchandise,6,1.5,1
+2004,6011,20,Creative Development,MEDIUM,Packaging & Merch Design,Print Merchandise,8,2,1.5
+2004,6011,20,Creative Development,HIGH,Packaging & Merch Design,Print Merchandise,8,2,2
+2004,6012,40,Production,EDIT,Packaging & Merch Design,Packaging Design,4,1,0.5
+2004,6012,40,Production,LOW,Packaging & Merch Design,Packaging Design,6,1.5,1
+2004,6012,20,Creative Development,MEDIUM,Packaging & Merch Design,Packaging Design,8,2,1.5
+2004,6012,20,Creative Development,HIGH,Packaging & Merch Design,Packaging Design,8,2,2
+2004,6013,40,Production,EDIT,Packaging & Merch Design,Apparel Design,4,1,0.5
+2004,6013,40,Production,LOW,Packaging & Merch Design,Apparel Design,6,1.5,1
+2004,6013,20,Creative Development,MEDIUM,Packaging & Merch Design,Apparel Design,8,2,1.5
+2004,6013,20,Creative Development,HIGH,Packaging & Merch Design,Apparel Design,8,2,2
+2013,6043,40,Production,EDIT,Illustration Design,Iconography,4,1,0.5
+2013,6043,40,Production,LOW,Illustration Design,Iconography,6,1.5,1
+2013,6043,20,Creative Development,MEDIUM,Illustration Design,Iconography,8,2,1.5
+2013,6043,20,Creative Development,HIGH,Illustration Design,Iconography,8,2,2
+2013,6046,40,Production,EDIT,Illustration Design,Flow Chart & Data Visualization,4,1,0.5
+2013,6046,40,Production,LOW,Illustration Design,Flow Chart & Data Visualization,6,1.5,1
+2013,6046,20,Creative Development,MEDIUM,Illustration Design,Flow Chart & Data Visualization,8,2,1.5
+2013,6046,20,Creative Development,HIGH,Illustration Design,Flow Chart & Data Visualization,8,2,2
+2005,6024,40,Production,EDIT,eBooks & Digital Reports Design,eBook,4,1,0.5
+2005,6024,40,Production,LOW,eBooks & Digital Reports Design,eBook,6,1.5,1
+2005,6024,20,Creative Development,MEDIUM,eBooks & Digital Reports Design,eBook,8,2,1.5
+2005,6024,20,Creative Development,HIGH,eBooks & Digital Reports Design,eBook,8,2,2
+2005,6025,40,Production,EDIT,eBooks & Digital Reports Design,"Digital Reports (Reports & Guides, Publication or Digital Learning Content)",4,1,0.5
+2005,6025,40,Production,LOW,eBooks & Digital Reports Design,"Digital Reports (Reports & Guides, Publication or Digital Learning Content)",6,1.5,1
+2005,6025,20,Creative Development,MEDIUM,eBooks & Digital Reports Design,"Digital Reports (Reports & Guides, Publication or Digital Learning Content)",8,2,1.5
+2005,6025,20,Creative Development,HIGH,eBooks & Digital Reports Design,"Digital Reports (Reports & Guides, Publication or Digital Learning Content)",8,2,2
+2005,6026,40,Production,EDIT,eBooks & Digital Reports Design,One-Pager,4,1,0.5
+2005,6026,40,Production,LOW,eBooks & Digital Reports Design,One-Pager,6,1.5,1
+2005,6026,20,Creative Development,MEDIUM,eBooks & Digital Reports Design,One-Pager,8,2,1.5
+2005,6026,20,Creative Development,HIGH,eBooks & Digital Reports Design,One-Pager,8,2,2
+2010,6033,40,Production,EDIT,Email Design,Email Development,4,1,0.5
+2010,6033,40,Production,LOW,Email Design,Email Development,6,1.5,1
+2010,6033,20,Creative Development,MEDIUM,Email Design,Email Development,8,2,1.5
+2010,6033,20,Creative Development,HIGH,Email Design,Email Development,8,2,2
+2015,6048,40,Production,EDIT,Branding,Brand Look and Feel,4,1,0.5
+2015,6048,40,Production,LOW,Branding,Brand Look and Feel,6,1.5,1
+2015,6048,20,Creative Development,MEDIUM,Branding,Brand Look and Feel,8,2,1.5
+2015,6048,20,Creative Development,HIGH,Branding,Brand Look and Feel,8,2,2
+2015,6051,40,Production,EDIT,Branding,Brand Asset Development,4,1,0.5
+2015,6051,40,Production,LOW,Branding,Brand Asset Development,6,1.5,1
+2015,6051,20,Creative Development,MEDIUM,Branding,Brand Asset Development,8,2,1.5
+2015,6051,20,Creative Development,HIGH,Branding,Brand Asset Development,8,2,2
+2015,6052,40,Production,EDIT,Branding,Brand Guidelines,4,1,0.5
+2015,6052,40,Production,LOW,Branding,Brand Guidelines,6,1.5,1
+2015,6052,20,Creative Development,MEDIUM,Branding,Brand Guidelines,8,2,1.5
+2015,6052,20,Creative Development,HIGH,Branding,Brand Guidelines,8,2,2
+2015,6050,40,Production,EDIT,Branding,Animated Logo Builds,4,1,0.5
+2015,6050,40,Production,LOW,Branding,Animated Logo Builds,6,1.5,1
+2015,6050,20,Creative Development,MEDIUM,Branding,Animated Logo Builds,8,2,1.5
+2015,6050,20,Creative Development,HIGH,Branding,Animated Logo Builds,8,2,2
+2014,6071,20,Creative Development,MEDIUM,Creative Strategy & Concept,Single Concept,8,2,1.5
+2014,6071,20,Creative Development,HIGH,Creative Strategy & Concept,Single Concept,8,2,2
+2007,6054,40,Production,EDIT,Copywriting,Digital Out of Home Ads (Digital Billboards / Street Ads / Building / Vehicle Wraps),4,1,0.5
+2007,6054,40,Production,LOW,Copywriting,Digital Out of Home Ads (Digital Billboards / Street Ads / Building / Vehicle Wraps),6,1.5,1
+2007,6054,20,Creative Development,MEDIUM,Copywriting,Digital Out of Home Ads (Digital Billboards / Street Ads / Building / Vehicle Wraps),8,2,1.5
+2007,6054,20,Creative Development,HIGH,Copywriting,Digital Out of Home Ads (Digital Billboards / Street Ads / Building / Vehicle Wraps),8,2,2
+2007,6055,40,Production,EDIT,Copywriting,Social Ads,4,1,0.5
+2007,6055,40,Production,LOW,Copywriting,Social Ads,6,1.5,1
+2007,6055,20,Creative Development,MEDIUM,Copywriting,Social Ads,8,2,1.5
+2007,6055,20,Creative Development,HIGH,Copywriting,Social Ads,8,2,2
+2007,6057,40,Production,EDIT,Copywriting,Social Media Platform Collateral (Bio or Headlines),4,1,0.5
+2007,6057,40,Production,LOW,Copywriting,Social Media Platform Collateral (Bio or Headlines),6,1.5,1
+2007,6057,20,Creative Development,MEDIUM,Copywriting,Social Media Platform Collateral (Bio or Headlines),8,2,1.5
+2007,6057,20,Creative Development,HIGH,Copywriting,Social Media Platform Collateral (Bio or Headlines),8,2,2
+2007,6058,40,Production,EDIT,Copywriting,Animated Digital Banners (GIF/HTML),4,1,0.5
+2007,6058,40,Production,LOW,Copywriting,Animated Digital Banners (GIF/HTML),6,1.5,1
+2007,6058,20,Creative Development,MEDIUM,Copywriting,Animated Digital Banners (GIF/HTML),8,2,1.5
+2007,6058,20,Creative Development,HIGH,Copywriting,Animated Digital Banners (GIF/HTML),8,2,2
+2007,6060,40,Production,EDIT,Copywriting,eBooks,4,1,0.5
+2007,6060,40,Production,LOW,Copywriting,eBooks,6,1.5,1
+2007,6060,20,Creative Development,MEDIUM,Copywriting,eBooks,8,2,1.5
+2007,6060,20,Creative Development,HIGH,Copywriting,eBooks,8,2,2
+2007,6061,40,Production,EDIT,Copywriting,"Digital Reports (Reports & Guides, Publication or Digital Learning Content)",4,1,0.5
+2007,6061,40,Production,LOW,Copywriting,"Digital Reports (Reports & Guides, Publication or Digital Learning Content)",6,1.5,1
+2007,6061,20,Creative Development,MEDIUM,Copywriting,"Digital Reports (Reports & Guides, Publication or Digital Learning Content)",8,2,1.5
+2007,6061,20,Creative Development,HIGH,Copywriting,"Digital Reports (Reports & Guides, Publication or Digital Learning Content)",8,2,2
+2007,6062,40,Production,EDIT,Copywriting,One-Pager,4,1,0.5
+2007,6062,40,Production,LOW,Copywriting,One-Pager,6,1.5,1
+2007,6062,20,Creative Development,MEDIUM,Copywriting,One-Pager,8,2,1.5
+2007,6062,20,Creative Development,HIGH,Copywriting,One-Pager,8,2,2
+2007,6063,40,Production,EDIT,Copywriting,Print,4,1,0.5
+2007,6063,40,Production,LOW,Copywriting,Print,6,1.5,1
+2007,6063,20,Creative Development,MEDIUM,Copywriting,Print,8,2,1.5
+2007,6063,20,Creative Development,HIGH,Copywriting,Print,8,2,2
+2007,6064,40,Production,EDIT,Copywriting,Website,4,1,0.5
+2007,6064,40,Production,LOW,Copywriting,Website,6,1.5,1
+2007,6064,20,Creative Development,MEDIUM,Copywriting,Website,8,2,1.5
+2007,6064,20,Creative Development,HIGH,Copywriting,Website,8,2,2
+2007,6065,40,Production,EDIT,Copywriting,Landing Page,4,1,0.5
+2007,6065,40,Production,LOW,Copywriting,Landing Page,6,1.5,1
+2007,6065,20,Creative Development,MEDIUM,Copywriting,Landing Page,8,2,1.5
+2007,6065,20,Creative Development,HIGH,Copywriting,Landing Page,8,2,2
+2007,6069,40,Production,EDIT,Copywriting,"Brand Core Articulation (Purpose, Vision, Mission, Values)",4,1,0.5
+2007,6069,40,Production,LOW,Copywriting,"Brand Core Articulation (Purpose, Vision, Mission, Values)",6,1.5,1
+2007,6069,20,Creative Development,MEDIUM,Copywriting,"Brand Core Articulation (Purpose, Vision, Mission, Values)",8,2,1.5
+2007,6069,20,Creative Development,HIGH,Copywriting,"Brand Core Articulation (Purpose, Vision, Mission, Values)",8,2,2
+2008,6201,20,Creative Development,MEDIUM,Supporting Digital Graphics,Photographic Style Images,8,2,1.5
+2008,6201,20,Creative Development,HIGH,Supporting Digital Graphics,Photographic Style Images,8,2,2
+2008,6202,20,Creative Development,MEDIUM,Supporting Digital Graphics,Illustration Style Images,8,2,1.5
+2008,6202,20,Creative Development,HIGH,Supporting Digital Graphics,Illustration Style Images,8,2,2
+2008,6203,20,Creative Development,MEDIUM,Supporting Digital Graphics,3D Style Images,8,2,1.5
+2008,6203,20,Creative Development,HIGH,Supporting Digital Graphics,3D Style Images,8,2,2
+2008,6204,40,Production,EDIT,Supporting Digital Graphics,Image Post-Production,4,1,0.5
+2008,6204,40,Production,LOW,Supporting Digital Graphics,Image Post-Production,6,1.5,1
+2025,6205,40,Production,EDIT,Website Design,Website Design,4,1,0.5
+2025,6205,40,Production,LOW,Website Design,Website Design,6,1.5,1
+2025,6205,20,Creative Development,MEDIUM,Website Design,Website Design,8,2,1.5
+2025,6205,20,Creative Development,HIGH,Website Design,Website Design,8,2,2
+2026,6208,10,Strategy/Audits,LOW,Landing Page Design,Landing Page Development,6,1.5,1
+2026,6208,10,Strategy/Audits,MEDIUM,Landing Page Design,Landing Page Development,8,2,1.5
+2026,6208,10,Strategy/Audits,HIGH,Landing Page Design,Landing Page Development,8,2,2
+2017,6219,10,Strategy/Audits,MEDIUM,Video & Photo Production,Strategy,8,2,1.5
+2017,6219,10,Strategy/Audits,HIGH,Video & Photo Production,Strategy,8,2,2
+2017,6220,20,Creative Development,MEDIUM,Video & Photo Production,Concept,8,2,1.5
+2017,6220,20,Creative Development,HIGH,Video & Photo Production,Concept,8,2,2
+2017,6221,40,Production,LOW,Video & Photo Production,Audio Visual Scriptwriting,6,1.5,1
+2017,6221,20,Creative Development,MEDIUM,Video & Photo Production,Audio Visual Scriptwriting,8,2,1.5
+2017,6221,20,Creative Development,HIGH,Video & Photo Production,Audio Visual Scriptwriting,8,2,2
+2027,6227,10,Strategy/Audits,MEDIUM,Video Editing & Post Production,Strategy,8,2,1.5
+2027,6227,10,Strategy/Audits,HIGH,Video Editing & Post Production,Strategy,8,2,2
+2027,6228,20,Creative Development,MEDIUM,Video Editing & Post Production,Concept,8,2,1.5
+2027,6228,20,Creative Development,HIGH,Video Editing & Post Production,Concept,8,2,2
+2027,6230,40,Production,EDIT,Video Editing & Post Production,Video Editing,4,1,0.5
+2027,6230,40,Production,LOW,Video Editing & Post Production,Video Editing,6,1.5,1
+2027,6230,20,Creative Development,MEDIUM,Video Editing & Post Production,Video Editing,8,2,1.5
+2027,6230,20,Creative Development,HIGH,Video Editing & Post Production,Video Editing,8,2,2
+2027,6229,40,Production,LOW,Video Editing & Post Production,Audio Visual Scriptwriting,6,1.5,1
+2027,6229,20,Creative Development,MEDIUM,Video Editing & Post Production,Audio Visual Scriptwriting,8,2,1.5
+2027,6229,20,Creative Development,HIGH,Video Editing & Post Production,Audio Visual Scriptwriting,8,2,2
+2027,6231,40,Production,LOW,Video Editing & Post Production,Sound and Music,6,1.5,1
+2027,6231,20,Creative Development,MEDIUM,Video Editing & Post Production,Sound and Music,8,2,1.5
+2027,6231,20,Creative Development,HIGH,Video Editing & Post Production,Sound and Music,8,2,2
+2027,6232,40,Production,LOW,Video Editing & Post Production,Video and Title Graphics,6,1.5,1
+2027,6232,20,Creative Development,MEDIUM,Video Editing & Post Production,Video and Title Graphics,8,2,1.5
+2027,6232,20,Creative Development,HIGH,Video Editing & Post Production,Video and Title Graphics,8,2,2
+2020,6088,40,Production,EDIT,3D Design,3D Illustration,4,1,0.5
+2020,6088,40,Production,LOW,3D Design,3D Illustration,6,1.5,1
+2020,6088,20,Creative Development,MEDIUM,3D Design,3D Illustration,8,2,1.5
+2020,6088,20,Creative Development,HIGH,3D Design,3D Illustration,8,2,2
+2020,6090,40,Production,EDIT,3D Design,3D Characters,4,1,0.5
+2020,6090,40,Production,LOW,3D Design,3D Characters,6,1.5,1
+2020,6090,20,Creative Development,MEDIUM,3D Design,3D Characters,8,2,1.5
+2020,6090,20,Creative Development,HIGH,3D Design,3D Characters,8,2,2
+2020,6089,40,Production,EDIT,3D Design,3D Products,4,1,0.5
+2020,6089,40,Production,LOW,3D Design,3D Products,6,1.5,1
+2020,6089,20,Creative Development,MEDIUM,3D Design,3D Products,8,2,1.5
+2020,6089,20,Creative Development,HIGH,3D Design,3D Products,8,2,2
+2020,6225,40,Production,EDIT,3D Design,3D Spaces,4,1,0.5
+2020,6225,40,Production,LOW,3D Design,3D Spaces,6,1.5,1
+2020,6225,20,Creative Development,MEDIUM,3D Design,3D Spaces,8,2,1.5
+2020,6225,20,Creative Development,HIGH,3D Design,3D Spaces,8,2,2
+2016,6214,40,Production,LOW,Motion Design,Audio Visual Scriptwriting,6,1.5,1
+2016,6214,20,Creative Development,MEDIUM,Motion Design,Audio Visual Scriptwriting,8,2,1.5
+2016,6214,20,Creative Development,HIGH,Motion Design,Audio Visual Scriptwriting,8,2,2
+2016,6217,40,Production,LOW,Motion Design,Sound and Music,6,1.5,1
+2016,6217,20,Creative Development,MEDIUM,Motion Design,Sound and Music,8,2,1.5
+2016,6217,20,Creative Development,HIGH,Motion Design,Sound and Music,8,2,2
+2016,6215,40,Production,EDIT,Motion Design,Graphic Design,4,1,0.5
+2016,6215,40,Production,LOW,Motion Design,Graphic Design,6,1.5,1
+2016,6215,20,Creative Development,MEDIUM,Motion Design,Graphic Design,8,2,1.5
+2016,6215,20,Creative Development,HIGH,Motion Design,Graphic Design,8,2,2
+2027,6233,20,Creative Development,MEDIUM,Video Editing & Post Production,Voice Over Recording,8,2,1.5
+2016,6212,10,Strategy/Audits,MEDIUM,Motion Design,Strategy,8,2,1.5
+2016,6212,10,Strategy/Audits,HIGH,Motion Design,Strategy,8,2,2
+2016,6213,20,Creative Development,MEDIUM,Motion Design,Concept,8,2,1.5
+2016,6213,20,Creative Development,HIGH,Motion Design,Concept,8,2,2
+2016,6216,40,Production,EDIT,Motion Design,Motion Graphics,4,1,0.5
+2016,6216,40,Production,LOW,Motion Design,Motion Graphics,6,1.5,1
+2016,6216,20,Creative Development,MEDIUM,Motion Design,Motion Graphics,8,2,1.5
+2016,6216,20,Creative Development,HIGH,Motion Design,Motion Graphics,8,2,2
+2008,6239,20,Creative Development,MEDIUM,Supporting Digital Graphics,Moodboards,8,2,1.5
+2008,6239,20,Creative Development,HIGH,Supporting Digital Graphics,Moodboards,8,2,2
+2008,6234,40,Production,LOW,Supporting Digital Graphics,Source Stock Assets,6,1.5,1
+2010,6240,40,Production,EDIT,Email Design,Email Modular Design,4,1,0.5
+2010,6240,40,Production,LOW,Email Design,Email Modular Design,6,1.5,1
+2010,6240,20,Creative Development,MEDIUM,Email Design,Email Modular Design,8,2,1.5
+2010,6240,20,Creative Development,HIGH,Email Design,Email Modular Design,8,2,2

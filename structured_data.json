@@ -1,0 +1,1911 @@
+{
+    "2002": {
+        "service_id": 2002,
+        "service_name": "Digital Banner Ad Design",
+        "products": {
+            "6003": {
+                "product_id": 6003,
+                "product_name": "Static Digital Banners",
+                "type_of_works": {
+                    "40": {
+                        "type_of_work_id": 40,
+                        "type_of_work_name": "Production",
+                        "complexity": [
+                            "EDIT",
+                            "LOW"
+                        ]
+                    },
+                    "20": {
+                        "type_of_work_id": 20,
+                        "type_of_work_name": "Creative Development",
+                        "complexity": [
+                            "MEDIUM",
+                            "HIGH"
+                        ]
+                    }
+                }
+            },
+            "6004": {
+                "product_id": 6004,
+                "product_name": "Animated Digital Banners (GIF/HTML)",
+                "type_of_works": {
+                    "40": {
+                        "type_of_work_id": 40,
+                        "type_of_work_name": "Production",
+                        "complexity": [
+                            "EDIT",
+                            "LOW"
+                        ]
+                    },
+                    "20": {
+                        "type_of_work_id": 20,
+                        "type_of_work_name": "Creative Development",
+                        "complexity": [
+                            "MEDIUM",
+                            "HIGH"
+                        ]
+                    }
+                }
+            },
+            "6005": {
+                "product_id": 6005,
+                "product_name": "Digital Out of Home Ads",
+                "type_of_works": {
+                    "40": {
+                        "type_of_work_id": 40,
+                        "type_of_work_name": "Production",
+                        "complexity": [
+                            "EDIT",
+                            "LOW"
+                        ]
+                    },
+                    "20": {
+                        "type_of_work_id": 20,
+                        "type_of_work_name": "Creative Development",
+                        "complexity": [
+                            "MEDIUM",
+                            "HIGH"
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    "2003": {
+        "service_id": 2003,
+        "service_name": "Static Social Design",
+        "products": {
+            "6006": {
+                "product_id": 6006,
+                "product_name": "Social Ads",
+                "type_of_works": {
+                    "40": {
+                        "type_of_work_id": 40,
+                        "type_of_work_name": "Production",
+                        "complexity": [
+                            "EDIT",
+                            "LOW"
+                        ]
+                    },
+                    "20": {
+                        "type_of_work_id": 20,
+                        "type_of_work_name": "Creative Development",
+                        "complexity": [
+                            "MEDIUM",
+                            "HIGH"
+                        ]
+                    }
+                }
+            },
+            "6007": {
+                "product_id": 6007,
+                "product_name": "Carousel Posts or Stories",
+                "type_of_works": {
+                    "40": {
+                        "type_of_work_id": 40,
+                        "type_of_work_name": "Production",
+                        "complexity": [
+                            "EDIT",
+                            "LOW"
+                        ]
+                    },
+                    "20": {
+                        "type_of_work_id": 20,
+                        "type_of_work_name": "Creative Development",
+                        "complexity": [
+                            "MEDIUM",
+                            "HIGH"
+                        ]
+                    }
+                }
+            },
+            "6008": {
+                "product_id": 6008,
+                "product_name": "Social Media Platform Collateral",
+                "type_of_works": {
+                    "40": {
+                        "type_of_work_id": 40,
+                        "type_of_work_name": "Production",
+                        "complexity": [
+                            "EDIT",
+                            "LOW"
+                        ]
+                    },
+                    "20": {
+                        "type_of_work_id": 20,
+                        "type_of_work_name": "Creative Development",
+                        "complexity": [
+                            "MEDIUM",
+                            "HIGH"
+                        ]
+                    }
+                }
+            },
+            "6009": {
+                "product_id": 6009,
+                "product_name": "Social Media Guidelines",
+                "type_of_works": {
+                    "40": {
+                        "type_of_work_id": 40,
+                        "type_of_work_name": "Production",
+                        "complexity": [
+                            "EDIT",
+                            "LOW"
+                        ]
+                    },
+                    "20": {
+                        "type_of_work_id": 20,
+                        "type_of_work_name": "Creative Development",
+                        "complexity": [
+                            "MEDIUM",
+                            "HIGH"
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    "2008": {
+        "service_id": 2008,
+        "service_name": "Supporting Digital Graphics",
+        "products": {
+            "6027": {
+                "product_id": 6027,
+                "product_name": "Digital Graphics (Website Headers, Virtual Backgrounds, Blog images, Photo-retouching)",
+                "type_of_works": {
+                    "40": {
+                        "type_of_work_id": 40,
+                        "type_of_work_name": "Production",
+                        "complexity": [
+                            "EDIT",
+                            "LOW"
+                        ]
+                    },
+                    "20": {
+                        "type_of_work_id": 20,
+                        "type_of_work_name": "Creative Development",
+                        "complexity": [
+                            "MEDIUM",
+                            "HIGH"
+                        ]
+                    }
+                }
+            },
+            "6201": {
+                "product_id": 6201,
+                "product_name": "Photographic Style Images",
+                "type_of_works": {
+                    "20": {
+                        "type_of_work_id": 20,
+                        "type_of_work_name": "Creative Development",
+                        "complexity": [
+                            "MEDIUM",
+                            "HIGH"
+                        ]
+                    }
+                }
+            },
+            "6202": {
+                "product_id": 6202,
+                "product_name": "Illustration Style Images",
+                "type_of_works": {
+                    "20": {
+                        "type_of_work_id": 20,
+                        "type_of_work_name": "Creative Development",
+                        "complexity": [
+                            "MEDIUM",
+                            "HIGH"
+                        ]
+                    }
+                }
+            },
+            "6203": {
+                "product_id": 6203,
+                "product_name": "3D Style Images",
+                "type_of_works": {
+                    "20": {
+                        "type_of_work_id": 20,
+                        "type_of_work_name": "Creative Development",
+                        "complexity": [
+                            "MEDIUM",
+                            "HIGH"
+                        ]
+                    }
+                }
+            },
+            "6204": {
+                "product_id": 6204,
+                "product_name": "Image Post-Production",
+                "type_of_works": {
+                    "40": {
+                        "type_of_work_id": 40,
+                        "type_of_work_name": "Production",
+                        "complexity": [
+                            "EDIT",
+                            "LOW"
+                        ]
+                    }
+                }
+            },
+            "6239": {
+                "product_id": 6239,
+                "product_name": "Moodboards",
+                "type_of_works": {
+                    "20": {
+                        "type_of_work_id": 20,
+                        "type_of_work_name": "Creative Development",
+                        "complexity": [
+                            "MEDIUM",
+                            "HIGH"
+                        ]
+                    }
+                }
+            },
+            "6234": {
+                "product_id": 6234,
+                "product_name": "Source Stock Assets",
+                "type_of_works": {
+                    "40": {
+                        "type_of_work_id": 40,
+                        "type_of_work_name": "Production",
+                        "complexity": [
+                            "LOW"
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    "2001": {
+        "service_id": 2001,
+        "service_name": "Presentation Design",
+        "products": {
+            "6001": {
+                "product_id": 6001,
+                "product_name": "Presentation",
+                "type_of_works": {
+                    "40": {
+                        "type_of_work_id": 40,
+                        "type_of_work_name": "Production",
+                        "complexity": [
+                            "EDIT",
+                            "LOW"
+                        ]
+                    },
+                    "20": {
+                        "type_of_work_id": 20,
+                        "type_of_work_name": "Creative Development",
+                        "complexity": [
+                            "MEDIUM",
+                            "HIGH"
+                        ]
+                    }
+                }
+            },
+            "6002": {
+                "product_id": 6002,
+                "product_name": "Presentation Template",
+                "type_of_works": {
+                    "40": {
+                        "type_of_work_id": 40,
+                        "type_of_work_name": "Production",
+                        "complexity": [
+                            "EDIT",
+                            "LOW"
+                        ]
+                    },
+                    "20": {
+                        "type_of_work_id": 20,
+                        "type_of_work_name": "Creative Development",
+                        "complexity": [
+                            "MEDIUM",
+                            "HIGH"
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    "2006": {
+        "service_id": 2006,
+        "service_name": "Print Design",
+        "products": {
+            "6014": {
+                "product_id": 6014,
+                "product_name": "Editorials",
+                "type_of_works": {
+                    "40": {
+                        "type_of_work_id": 40,
+                        "type_of_work_name": "Production",
+                        "complexity": [
+                            "EDIT",
+                            "LOW"
+                        ]
+                    },
+                    "20": {
+                        "type_of_work_id": 20,
+                        "type_of_work_name": "Creative Development",
+                        "complexity": [
+                            "MEDIUM",
+                            "HIGH"
+                        ]
+                    }
+                }
+            },
+            "6015": {
+                "product_id": 6015,
+                "product_name": "Newspaper/Magazine Ad",
+                "type_of_works": {
+                    "40": {
+                        "type_of_work_id": 40,
+                        "type_of_work_name": "Production",
+                        "complexity": [
+                            "EDIT",
+                            "LOW"
+                        ]
+                    },
+                    "20": {
+                        "type_of_work_id": 20,
+                        "type_of_work_name": "Creative Development",
+                        "complexity": [
+                            "MEDIUM",
+                            "HIGH"
+                        ]
+                    }
+                }
+            },
+            "6016": {
+                "product_id": 6016,
+                "product_name": "Pamphlets (Brochures, Flyers, Booklets)",
+                "type_of_works": {
+                    "40": {
+                        "type_of_work_id": 40,
+                        "type_of_work_name": "Production",
+                        "complexity": [
+                            "EDIT",
+                            "LOW"
+                        ]
+                    },
+                    "20": {
+                        "type_of_work_id": 20,
+                        "type_of_work_name": "Creative Development",
+                        "complexity": [
+                            "MEDIUM",
+                            "HIGH"
+                        ]
+                    }
+                }
+            },
+            "6017": {
+                "product_id": 6017,
+                "product_name": "Event Collateral Design",
+                "type_of_works": {
+                    "40": {
+                        "type_of_work_id": 40,
+                        "type_of_work_name": "Production",
+                        "complexity": [
+                            "EDIT",
+                            "LOW"
+                        ]
+                    },
+                    "20": {
+                        "type_of_work_id": 20,
+                        "type_of_work_name": "Creative Development",
+                        "complexity": [
+                            "MEDIUM",
+                            "HIGH"
+                        ]
+                    }
+                }
+            },
+            "6018": {
+                "product_id": 6018,
+                "product_name": "Stationary (Business Cards, Letterheads, Envelopes, Pocket Folders, Memos, Notebooks)",
+                "type_of_works": {
+                    "40": {
+                        "type_of_work_id": 40,
+                        "type_of_work_name": "Production",
+                        "complexity": [
+                            "EDIT",
+                            "LOW"
+                        ]
+                    },
+                    "20": {
+                        "type_of_work_id": 20,
+                        "type_of_work_name": "Creative Development",
+                        "complexity": [
+                            "MEDIUM",
+                            "HIGH"
+                        ]
+                    }
+                }
+            },
+            "6019": {
+                "product_id": 6019,
+                "product_name": "Posters",
+                "type_of_works": {
+                    "40": {
+                        "type_of_work_id": 40,
+                        "type_of_work_name": "Production",
+                        "complexity": [
+                            "EDIT",
+                            "LOW"
+                        ]
+                    },
+                    "20": {
+                        "type_of_work_id": 20,
+                        "type_of_work_name": "Creative Development",
+                        "complexity": [
+                            "MEDIUM",
+                            "HIGH"
+                        ]
+                    }
+                }
+            },
+            "6020": {
+                "product_id": 6020,
+                "product_name": "Reports & Guides (Business Reports & White Papers)",
+                "type_of_works": {
+                    "40": {
+                        "type_of_work_id": 40,
+                        "type_of_work_name": "Production",
+                        "complexity": [
+                            "EDIT",
+                            "LOW"
+                        ]
+                    },
+                    "20": {
+                        "type_of_work_id": 20,
+                        "type_of_work_name": "Creative Development",
+                        "complexity": [
+                            "MEDIUM",
+                            "HIGH"
+                        ]
+                    }
+                }
+            },
+            "6021": {
+                "product_id": 6021,
+                "product_name": "Book Cover",
+                "type_of_works": {
+                    "40": {
+                        "type_of_work_id": 40,
+                        "type_of_work_name": "Production",
+                        "complexity": [
+                            "EDIT",
+                            "LOW"
+                        ]
+                    },
+                    "20": {
+                        "type_of_work_id": 20,
+                        "type_of_work_name": "Creative Development",
+                        "complexity": [
+                            "MEDIUM",
+                            "HIGH"
+                        ]
+                    }
+                }
+            },
+            "6022": {
+                "product_id": 6022,
+                "product_name": "Book Layout",
+                "type_of_works": {
+                    "40": {
+                        "type_of_work_id": 40,
+                        "type_of_work_name": "Production",
+                        "complexity": [
+                            "EDIT",
+                            "LOW"
+                        ]
+                    },
+                    "20": {
+                        "type_of_work_id": 20,
+                        "type_of_work_name": "Creative Development",
+                        "complexity": [
+                            "MEDIUM",
+                            "HIGH"
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    "2004": {
+        "service_id": 2004,
+        "service_name": "Packaging & Merch Design",
+        "products": {
+            "6010": {
+                "product_id": 6010,
+                "product_name": "Digital Merchandise",
+                "type_of_works": {
+                    "40": {
+                        "type_of_work_id": 40,
+                        "type_of_work_name": "Production",
+                        "complexity": [
+                            "EDIT",
+                            "LOW"
+                        ]
+                    },
+                    "20": {
+                        "type_of_work_id": 20,
+                        "type_of_work_name": "Creative Development",
+                        "complexity": [
+                            "MEDIUM",
+                            "HIGH"
+                        ]
+                    }
+                }
+            },
+            "6011": {
+                "product_id": 6011,
+                "product_name": "Print Merchandise",
+                "type_of_works": {
+                    "40": {
+                        "type_of_work_id": 40,
+                        "type_of_work_name": "Production",
+                        "complexity": [
+                            "EDIT",
+                            "LOW"
+                        ]
+                    },
+                    "20": {
+                        "type_of_work_id": 20,
+                        "type_of_work_name": "Creative Development",
+                        "complexity": [
+                            "MEDIUM",
+                            "HIGH"
+                        ]
+                    }
+                }
+            },
+            "6012": {
+                "product_id": 6012,
+                "product_name": "Packaging Design",
+                "type_of_works": {
+                    "40": {
+                        "type_of_work_id": 40,
+                        "type_of_work_name": "Production",
+                        "complexity": [
+                            "EDIT",
+                            "LOW"
+                        ]
+                    },
+                    "20": {
+                        "type_of_work_id": 20,
+                        "type_of_work_name": "Creative Development",
+                        "complexity": [
+                            "MEDIUM",
+                            "HIGH"
+                        ]
+                    }
+                }
+            },
+            "6013": {
+                "product_id": 6013,
+                "product_name": "Apparel Design",
+                "type_of_works": {
+                    "40": {
+                        "type_of_work_id": 40,
+                        "type_of_work_name": "Production",
+                        "complexity": [
+                            "EDIT",
+                            "LOW"
+                        ]
+                    },
+                    "20": {
+                        "type_of_work_id": 20,
+                        "type_of_work_name": "Creative Development",
+                        "complexity": [
+                            "MEDIUM",
+                            "HIGH"
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    "2013": {
+        "service_id": 2013,
+        "service_name": "Illustration Design",
+        "products": {
+            "6042": {
+                "product_id": 6042,
+                "product_name": "Illustration",
+                "type_of_works": {
+                    "40": {
+                        "type_of_work_id": 40,
+                        "type_of_work_name": "Production",
+                        "complexity": [
+                            "EDIT",
+                            "LOW"
+                        ]
+                    },
+                    "20": {
+                        "type_of_work_id": 20,
+                        "type_of_work_name": "Creative Development",
+                        "complexity": [
+                            "MEDIUM",
+                            "HIGH"
+                        ]
+                    }
+                }
+            },
+            "6044": {
+                "product_id": 6044,
+                "product_name": "Storyboard",
+                "type_of_works": {
+                    "40": {
+                        "type_of_work_id": 40,
+                        "type_of_work_name": "Production",
+                        "complexity": [
+                            "EDIT",
+                            "LOW"
+                        ]
+                    },
+                    "20": {
+                        "type_of_work_id": 20,
+                        "type_of_work_name": "Creative Development",
+                        "complexity": [
+                            "MEDIUM",
+                            "HIGH"
+                        ]
+                    }
+                }
+            },
+            "6045": {
+                "product_id": 6045,
+                "product_name": "Custom Infographic",
+                "type_of_works": {
+                    "40": {
+                        "type_of_work_id": 40,
+                        "type_of_work_name": "Production",
+                        "complexity": [
+                            "EDIT",
+                            "LOW"
+                        ]
+                    },
+                    "20": {
+                        "type_of_work_id": 20,
+                        "type_of_work_name": "Creative Development",
+                        "complexity": [
+                            "MEDIUM",
+                            "HIGH"
+                        ]
+                    }
+                }
+            },
+            "6043": {
+                "product_id": 6043,
+                "product_name": "Iconography",
+                "type_of_works": {
+                    "40": {
+                        "type_of_work_id": 40,
+                        "type_of_work_name": "Production",
+                        "complexity": [
+                            "EDIT",
+                            "LOW"
+                        ]
+                    },
+                    "20": {
+                        "type_of_work_id": 20,
+                        "type_of_work_name": "Creative Development",
+                        "complexity": [
+                            "MEDIUM",
+                            "HIGH"
+                        ]
+                    }
+                }
+            },
+            "6046": {
+                "product_id": 6046,
+                "product_name": "Flow Chart & Data Visualization",
+                "type_of_works": {
+                    "40": {
+                        "type_of_work_id": 40,
+                        "type_of_work_name": "Production",
+                        "complexity": [
+                            "EDIT",
+                            "LOW"
+                        ]
+                    },
+                    "20": {
+                        "type_of_work_id": 20,
+                        "type_of_work_name": "Creative Development",
+                        "complexity": [
+                            "MEDIUM",
+                            "HIGH"
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    "2005": {
+        "service_id": 2005,
+        "service_name": "eBooks & Digital Reports Design",
+        "products": {
+            "6023": {
+                "product_id": 6023,
+                "product_name": "eBook Cover",
+                "type_of_works": {
+                    "40": {
+                        "type_of_work_id": 40,
+                        "type_of_work_name": "Production",
+                        "complexity": [
+                            "EDIT",
+                            "LOW"
+                        ]
+                    },
+                    "20": {
+                        "type_of_work_id": 20,
+                        "type_of_work_name": "Creative Development",
+                        "complexity": [
+                            "MEDIUM",
+                            "HIGH"
+                        ]
+                    }
+                }
+            },
+            "6024": {
+                "product_id": 6024,
+                "product_name": "eBook",
+                "type_of_works": {
+                    "40": {
+                        "type_of_work_id": 40,
+                        "type_of_work_name": "Production",
+                        "complexity": [
+                            "EDIT",
+                            "LOW"
+                        ]
+                    },
+                    "20": {
+                        "type_of_work_id": 20,
+                        "type_of_work_name": "Creative Development",
+                        "complexity": [
+                            "MEDIUM",
+                            "HIGH"
+                        ]
+                    }
+                }
+            },
+            "6025": {
+                "product_id": 6025,
+                "product_name": "Digital Reports (Reports & Guides, Publication or Digital Learning Content)",
+                "type_of_works": {
+                    "40": {
+                        "type_of_work_id": 40,
+                        "type_of_work_name": "Production",
+                        "complexity": [
+                            "EDIT",
+                            "LOW"
+                        ]
+                    },
+                    "20": {
+                        "type_of_work_id": 20,
+                        "type_of_work_name": "Creative Development",
+                        "complexity": [
+                            "MEDIUM",
+                            "HIGH"
+                        ]
+                    }
+                }
+            },
+            "6026": {
+                "product_id": 6026,
+                "product_name": "One-Pager",
+                "type_of_works": {
+                    "40": {
+                        "type_of_work_id": 40,
+                        "type_of_work_name": "Production",
+                        "complexity": [
+                            "EDIT",
+                            "LOW"
+                        ]
+                    },
+                    "20": {
+                        "type_of_work_id": 20,
+                        "type_of_work_name": "Creative Development",
+                        "complexity": [
+                            "MEDIUM",
+                            "HIGH"
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    "2010": {
+        "service_id": 2010,
+        "service_name": "Email Design",
+        "products": {
+            "6032": {
+                "product_id": 6032,
+                "product_name": "Email Design",
+                "type_of_works": {
+                    "40": {
+                        "type_of_work_id": 40,
+                        "type_of_work_name": "Production",
+                        "complexity": [
+                            "EDIT",
+                            "LOW"
+                        ]
+                    },
+                    "20": {
+                        "type_of_work_id": 20,
+                        "type_of_work_name": "Creative Development",
+                        "complexity": [
+                            "MEDIUM",
+                            "HIGH"
+                        ]
+                    }
+                }
+            },
+            "6033": {
+                "product_id": 6033,
+                "product_name": "Email Development",
+                "type_of_works": {
+                    "40": {
+                        "type_of_work_id": 40,
+                        "type_of_work_name": "Production",
+                        "complexity": [
+                            "EDIT",
+                            "LOW"
+                        ]
+                    },
+                    "20": {
+                        "type_of_work_id": 20,
+                        "type_of_work_name": "Creative Development",
+                        "complexity": [
+                            "MEDIUM",
+                            "HIGH"
+                        ]
+                    }
+                }
+            },
+            "6240": {
+                "product_id": 6240,
+                "product_name": "Email Modular Design",
+                "type_of_works": {
+                    "40": {
+                        "type_of_work_id": 40,
+                        "type_of_work_name": "Production",
+                        "complexity": [
+                            "EDIT",
+                            "LOW"
+                        ]
+                    },
+                    "20": {
+                        "type_of_work_id": 20,
+                        "type_of_work_name": "Creative Development",
+                        "complexity": [
+                            "MEDIUM",
+                            "HIGH"
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    "2015": {
+        "service_id": 2015,
+        "service_name": "Branding",
+        "products": {
+            "6047": {
+                "product_id": 6047,
+                "product_name": "Brand Story Creation",
+                "type_of_works": {
+                    "40": {
+                        "type_of_work_id": 40,
+                        "type_of_work_name": "Production",
+                        "complexity": [
+                            "EDIT",
+                            "LOW"
+                        ]
+                    },
+                    "20": {
+                        "type_of_work_id": 20,
+                        "type_of_work_name": "Creative Development",
+                        "complexity": [
+                            "MEDIUM",
+                            "HIGH"
+                        ]
+                    }
+                }
+            },
+            "6049": {
+                "product_id": 6049,
+                "product_name": "Logo Development",
+                "type_of_works": {
+                    "40": {
+                        "type_of_work_id": 40,
+                        "type_of_work_name": "Production",
+                        "complexity": [
+                            "EDIT",
+                            "LOW"
+                        ]
+                    },
+                    "20": {
+                        "type_of_work_id": 20,
+                        "type_of_work_name": "Creative Development",
+                        "complexity": [
+                            "MEDIUM",
+                            "HIGH"
+                        ]
+                    }
+                }
+            },
+            "6048": {
+                "product_id": 6048,
+                "product_name": "Brand Look and Feel",
+                "type_of_works": {
+                    "40": {
+                        "type_of_work_id": 40,
+                        "type_of_work_name": "Production",
+                        "complexity": [
+                            "EDIT",
+                            "LOW"
+                        ]
+                    },
+                    "20": {
+                        "type_of_work_id": 20,
+                        "type_of_work_name": "Creative Development",
+                        "complexity": [
+                            "MEDIUM",
+                            "HIGH"
+                        ]
+                    }
+                }
+            },
+            "6051": {
+                "product_id": 6051,
+                "product_name": "Brand Asset Development",
+                "type_of_works": {
+                    "40": {
+                        "type_of_work_id": 40,
+                        "type_of_work_name": "Production",
+                        "complexity": [
+                            "EDIT",
+                            "LOW"
+                        ]
+                    },
+                    "20": {
+                        "type_of_work_id": 20,
+                        "type_of_work_name": "Creative Development",
+                        "complexity": [
+                            "MEDIUM",
+                            "HIGH"
+                        ]
+                    }
+                }
+            },
+            "6052": {
+                "product_id": 6052,
+                "product_name": "Brand Guidelines",
+                "type_of_works": {
+                    "40": {
+                        "type_of_work_id": 40,
+                        "type_of_work_name": "Production",
+                        "complexity": [
+                            "EDIT",
+                            "LOW"
+                        ]
+                    },
+                    "20": {
+                        "type_of_work_id": 20,
+                        "type_of_work_name": "Creative Development",
+                        "complexity": [
+                            "MEDIUM",
+                            "HIGH"
+                        ]
+                    }
+                }
+            },
+            "6050": {
+                "product_id": 6050,
+                "product_name": "Animated Logo Builds",
+                "type_of_works": {
+                    "40": {
+                        "type_of_work_id": 40,
+                        "type_of_work_name": "Production",
+                        "complexity": [
+                            "EDIT",
+                            "LOW"
+                        ]
+                    },
+                    "20": {
+                        "type_of_work_id": 20,
+                        "type_of_work_name": "Creative Development",
+                        "complexity": [
+                            "MEDIUM",
+                            "HIGH"
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    "2014": {
+        "service_id": 2014,
+        "service_name": "Creative Strategy & Concept",
+        "products": {
+            "6070": {
+                "product_id": 6070,
+                "product_name": "Campaign",
+                "type_of_works": {
+                    "20": {
+                        "type_of_work_id": 20,
+                        "type_of_work_name": "Creative Development",
+                        "complexity": [
+                            "MEDIUM",
+                            "HIGH"
+                        ]
+                    }
+                }
+            },
+            "6071": {
+                "product_id": 6071,
+                "product_name": "Single Concept",
+                "type_of_works": {
+                    "20": {
+                        "type_of_work_id": 20,
+                        "type_of_work_name": "Creative Development",
+                        "complexity": [
+                            "MEDIUM",
+                            "HIGH"
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    "2007": {
+        "service_id": 2007,
+        "service_name": "Copywriting",
+        "products": {
+            "6053": {
+                "product_id": 6053,
+                "product_name": "Static Digital Banners",
+                "type_of_works": {
+                    "40": {
+                        "type_of_work_id": 40,
+                        "type_of_work_name": "Production",
+                        "complexity": [
+                            "EDIT",
+                            "LOW"
+                        ]
+                    },
+                    "20": {
+                        "type_of_work_id": 20,
+                        "type_of_work_name": "Creative Development",
+                        "complexity": [
+                            "MEDIUM",
+                            "HIGH"
+                        ]
+                    }
+                }
+            },
+            "6056": {
+                "product_id": 6056,
+                "product_name": "Carousel Posts or Stories",
+                "type_of_works": {
+                    "40": {
+                        "type_of_work_id": 40,
+                        "type_of_work_name": "Production",
+                        "complexity": [
+                            "EDIT",
+                            "LOW"
+                        ]
+                    },
+                    "20": {
+                        "type_of_work_id": 20,
+                        "type_of_work_name": "Creative Development",
+                        "complexity": [
+                            "MEDIUM",
+                            "HIGH"
+                        ]
+                    }
+                }
+            },
+            "6059": {
+                "product_id": 6059,
+                "product_name": "eBook Cover",
+                "type_of_works": {
+                    "40": {
+                        "type_of_work_id": 40,
+                        "type_of_work_name": "Production",
+                        "complexity": [
+                            "EDIT",
+                            "LOW"
+                        ]
+                    },
+                    "20": {
+                        "type_of_work_id": 20,
+                        "type_of_work_name": "Creative Development",
+                        "complexity": [
+                            "MEDIUM",
+                            "HIGH"
+                        ]
+                    }
+                }
+            },
+            "6066": {
+                "product_id": 6066,
+                "product_name": "Email",
+                "type_of_works": {
+                    "40": {
+                        "type_of_work_id": 40,
+                        "type_of_work_name": "Production",
+                        "complexity": [
+                            "EDIT",
+                            "LOW"
+                        ]
+                    },
+                    "20": {
+                        "type_of_work_id": 20,
+                        "type_of_work_name": "Creative Development",
+                        "complexity": [
+                            "MEDIUM",
+                            "HIGH"
+                        ]
+                    }
+                }
+            },
+            "6067": {
+                "product_id": 6067,
+                "product_name": "Presentation",
+                "type_of_works": {
+                    "40": {
+                        "type_of_work_id": 40,
+                        "type_of_work_name": "Production",
+                        "complexity": [
+                            "EDIT",
+                            "LOW"
+                        ]
+                    },
+                    "20": {
+                        "type_of_work_id": 20,
+                        "type_of_work_name": "Creative Development",
+                        "complexity": [
+                            "MEDIUM",
+                            "HIGH"
+                        ]
+                    }
+                }
+            },
+            "6068": {
+                "product_id": 6068,
+                "product_name": "Brand (Tone of Voice Guide)",
+                "type_of_works": {
+                    "40": {
+                        "type_of_work_id": 40,
+                        "type_of_work_name": "Production",
+                        "complexity": [
+                            "EDIT",
+                            "LOW"
+                        ]
+                    },
+                    "20": {
+                        "type_of_work_id": 20,
+                        "type_of_work_name": "Creative Development",
+                        "complexity": [
+                            "MEDIUM",
+                            "HIGH"
+                        ]
+                    }
+                }
+            },
+            "6054": {
+                "product_id": 6054,
+                "product_name": "Digital Out of Home Ads (Digital Billboards / Street Ads / Building / Vehicle Wraps)",
+                "type_of_works": {
+                    "40": {
+                        "type_of_work_id": 40,
+                        "type_of_work_name": "Production",
+                        "complexity": [
+                            "EDIT",
+                            "LOW"
+                        ]
+                    },
+                    "20": {
+                        "type_of_work_id": 20,
+                        "type_of_work_name": "Creative Development",
+                        "complexity": [
+                            "MEDIUM",
+                            "HIGH"
+                        ]
+                    }
+                }
+            },
+            "6055": {
+                "product_id": 6055,
+                "product_name": "Social Ads",
+                "type_of_works": {
+                    "40": {
+                        "type_of_work_id": 40,
+                        "type_of_work_name": "Production",
+                        "complexity": [
+                            "EDIT",
+                            "LOW"
+                        ]
+                    },
+                    "20": {
+                        "type_of_work_id": 20,
+                        "type_of_work_name": "Creative Development",
+                        "complexity": [
+                            "MEDIUM",
+                            "HIGH"
+                        ]
+                    }
+                }
+            },
+            "6057": {
+                "product_id": 6057,
+                "product_name": "Social Media Platform Collateral (Bio or Headlines)",
+                "type_of_works": {
+                    "40": {
+                        "type_of_work_id": 40,
+                        "type_of_work_name": "Production",
+                        "complexity": [
+                            "EDIT",
+                            "LOW"
+                        ]
+                    },
+                    "20": {
+                        "type_of_work_id": 20,
+                        "type_of_work_name": "Creative Development",
+                        "complexity": [
+                            "MEDIUM",
+                            "HIGH"
+                        ]
+                    }
+                }
+            },
+            "6058": {
+                "product_id": 6058,
+                "product_name": "Animated Digital Banners (GIF/HTML)",
+                "type_of_works": {
+                    "40": {
+                        "type_of_work_id": 40,
+                        "type_of_work_name": "Production",
+                        "complexity": [
+                            "EDIT",
+                            "LOW"
+                        ]
+                    },
+                    "20": {
+                        "type_of_work_id": 20,
+                        "type_of_work_name": "Creative Development",
+                        "complexity": [
+                            "MEDIUM",
+                            "HIGH"
+                        ]
+                    }
+                }
+            },
+            "6060": {
+                "product_id": 6060,
+                "product_name": "eBooks",
+                "type_of_works": {
+                    "40": {
+                        "type_of_work_id": 40,
+                        "type_of_work_name": "Production",
+                        "complexity": [
+                            "EDIT",
+                            "LOW"
+                        ]
+                    },
+                    "20": {
+                        "type_of_work_id": 20,
+                        "type_of_work_name": "Creative Development",
+                        "complexity": [
+                            "MEDIUM",
+                            "HIGH"
+                        ]
+                    }
+                }
+            },
+            "6061": {
+                "product_id": 6061,
+                "product_name": "Digital Reports (Reports & Guides, Publication or Digital Learning Content)",
+                "type_of_works": {
+                    "40": {
+                        "type_of_work_id": 40,
+                        "type_of_work_name": "Production",
+                        "complexity": [
+                            "EDIT",
+                            "LOW"
+                        ]
+                    },
+                    "20": {
+                        "type_of_work_id": 20,
+                        "type_of_work_name": "Creative Development",
+                        "complexity": [
+                            "MEDIUM",
+                            "HIGH"
+                        ]
+                    }
+                }
+            },
+            "6062": {
+                "product_id": 6062,
+                "product_name": "One-Pager",
+                "type_of_works": {
+                    "40": {
+                        "type_of_work_id": 40,
+                        "type_of_work_name": "Production",
+                        "complexity": [
+                            "EDIT",
+                            "LOW"
+                        ]
+                    },
+                    "20": {
+                        "type_of_work_id": 20,
+                        "type_of_work_name": "Creative Development",
+                        "complexity": [
+                            "MEDIUM",
+                            "HIGH"
+                        ]
+                    }
+                }
+            },
+            "6063": {
+                "product_id": 6063,
+                "product_name": "Print",
+                "type_of_works": {
+                    "40": {
+                        "type_of_work_id": 40,
+                        "type_of_work_name": "Production",
+                        "complexity": [
+                            "EDIT",
+                            "LOW"
+                        ]
+                    },
+                    "20": {
+                        "type_of_work_id": 20,
+                        "type_of_work_name": "Creative Development",
+                        "complexity": [
+                            "MEDIUM",
+                            "HIGH"
+                        ]
+                    }
+                }
+            },
+            "6064": {
+                "product_id": 6064,
+                "product_name": "Website",
+                "type_of_works": {
+                    "40": {
+                        "type_of_work_id": 40,
+                        "type_of_work_name": "Production",
+                        "complexity": [
+                            "EDIT",
+                            "LOW"
+                        ]
+                    },
+                    "20": {
+                        "type_of_work_id": 20,
+                        "type_of_work_name": "Creative Development",
+                        "complexity": [
+                            "MEDIUM",
+                            "HIGH"
+                        ]
+                    }
+                }
+            },
+            "6065": {
+                "product_id": 6065,
+                "product_name": "Landing Page",
+                "type_of_works": {
+                    "40": {
+                        "type_of_work_id": 40,
+                        "type_of_work_name": "Production",
+                        "complexity": [
+                            "EDIT",
+                            "LOW"
+                        ]
+                    },
+                    "20": {
+                        "type_of_work_id": 20,
+                        "type_of_work_name": "Creative Development",
+                        "complexity": [
+                            "MEDIUM",
+                            "HIGH"
+                        ]
+                    }
+                }
+            },
+            "6069": {
+                "product_id": 6069,
+                "product_name": "Brand Core Articulation (Purpose, Vision, Mission, Values)",
+                "type_of_works": {
+                    "40": {
+                        "type_of_work_id": 40,
+                        "type_of_work_name": "Production",
+                        "complexity": [
+                            "EDIT",
+                            "LOW"
+                        ]
+                    },
+                    "20": {
+                        "type_of_work_id": 20,
+                        "type_of_work_name": "Creative Development",
+                        "complexity": [
+                            "MEDIUM",
+                            "HIGH"
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    "2025": {
+        "service_id": 2025,
+        "service_name": "Website Design",
+        "products": {
+            "6205": {
+                "product_id": 6205,
+                "product_name": "Website Design",
+                "type_of_works": {
+                    "40": {
+                        "type_of_work_id": 40,
+                        "type_of_work_name": "Production",
+                        "complexity": [
+                            "EDIT",
+                            "LOW"
+                        ]
+                    },
+                    "20": {
+                        "type_of_work_id": 20,
+                        "type_of_work_name": "Creative Development",
+                        "complexity": [
+                            "MEDIUM",
+                            "HIGH"
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    "2026": {
+        "service_id": 2026,
+        "service_name": "Landing Page Design",
+        "products": {
+            "6208": {
+                "product_id": 6208,
+                "product_name": "Landing Page Development",
+                "type_of_works": {
+                    "10": {
+                        "type_of_work_id": 10,
+                        "type_of_work_name": "Strategy/Audits",
+                        "complexity": [
+                            "LOW",
+                            "MEDIUM",
+                            "HIGH"
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    "2017": {
+        "service_id": 2017,
+        "service_name": "Video & Photo Production",
+        "products": {
+            "6219": {
+                "product_id": 6219,
+                "product_name": "Strategy",
+                "type_of_works": {
+                    "10": {
+                        "type_of_work_id": 10,
+                        "type_of_work_name": "Strategy/Audits",
+                        "complexity": [
+                            "MEDIUM",
+                            "HIGH"
+                        ]
+                    }
+                }
+            },
+            "6220": {
+                "product_id": 6220,
+                "product_name": "Concept",
+                "type_of_works": {
+                    "20": {
+                        "type_of_work_id": 20,
+                        "type_of_work_name": "Creative Development",
+                        "complexity": [
+                            "MEDIUM",
+                            "HIGH"
+                        ]
+                    }
+                }
+            },
+            "6221": {
+                "product_id": 6221,
+                "product_name": "Audio Visual Scriptwriting",
+                "type_of_works": {
+                    "40": {
+                        "type_of_work_id": 40,
+                        "type_of_work_name": "Production",
+                        "complexity": [
+                            "LOW"
+                        ]
+                    },
+                    "20": {
+                        "type_of_work_id": 20,
+                        "type_of_work_name": "Creative Development",
+                        "complexity": [
+                            "MEDIUM",
+                            "HIGH"
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    "2027": {
+        "service_id": 2027,
+        "service_name": "Video Editing & Post Production",
+        "products": {
+            "6227": {
+                "product_id": 6227,
+                "product_name": "Strategy",
+                "type_of_works": {
+                    "10": {
+                        "type_of_work_id": 10,
+                        "type_of_work_name": "Strategy/Audits",
+                        "complexity": [
+                            "MEDIUM",
+                            "HIGH"
+                        ]
+                    }
+                }
+            },
+            "6228": {
+                "product_id": 6228,
+                "product_name": "Concept",
+                "type_of_works": {
+                    "20": {
+                        "type_of_work_id": 20,
+                        "type_of_work_name": "Creative Development",
+                        "complexity": [
+                            "MEDIUM",
+                            "HIGH"
+                        ]
+                    }
+                }
+            },
+            "6230": {
+                "product_id": 6230,
+                "product_name": "Video Editing",
+                "type_of_works": {
+                    "40": {
+                        "type_of_work_id": 40,
+                        "type_of_work_name": "Production",
+                        "complexity": [
+                            "EDIT",
+                            "LOW"
+                        ]
+                    },
+                    "20": {
+                        "type_of_work_id": 20,
+                        "type_of_work_name": "Creative Development",
+                        "complexity": [
+                            "MEDIUM",
+                            "HIGH"
+                        ]
+                    }
+                }
+            },
+            "6229": {
+                "product_id": 6229,
+                "product_name": "Audio Visual Scriptwriting",
+                "type_of_works": {
+                    "40": {
+                        "type_of_work_id": 40,
+                        "type_of_work_name": "Production",
+                        "complexity": [
+                            "LOW"
+                        ]
+                    },
+                    "20": {
+                        "type_of_work_id": 20,
+                        "type_of_work_name": "Creative Development",
+                        "complexity": [
+                            "MEDIUM",
+                            "HIGH"
+                        ]
+                    }
+                }
+            },
+            "6231": {
+                "product_id": 6231,
+                "product_name": "Sound and Music",
+                "type_of_works": {
+                    "40": {
+                        "type_of_work_id": 40,
+                        "type_of_work_name": "Production",
+                        "complexity": [
+                            "LOW"
+                        ]
+                    },
+                    "20": {
+                        "type_of_work_id": 20,
+                        "type_of_work_name": "Creative Development",
+                        "complexity": [
+                            "MEDIUM",
+                            "HIGH"
+                        ]
+                    }
+                }
+            },
+            "6232": {
+                "product_id": 6232,
+                "product_name": "Video and Title Graphics",
+                "type_of_works": {
+                    "40": {
+                        "type_of_work_id": 40,
+                        "type_of_work_name": "Production",
+                        "complexity": [
+                            "LOW"
+                        ]
+                    },
+                    "20": {
+                        "type_of_work_id": 20,
+                        "type_of_work_name": "Creative Development",
+                        "complexity": [
+                            "MEDIUM",
+                            "HIGH"
+                        ]
+                    }
+                }
+            },
+            "6233": {
+                "product_id": 6233,
+                "product_name": "Voice Over Recording",
+                "type_of_works": {
+                    "20": {
+                        "type_of_work_id": 20,
+                        "type_of_work_name": "Creative Development",
+                        "complexity": [
+                            "MEDIUM"
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    "2020": {
+        "service_id": 2020,
+        "service_name": "3D Design",
+        "products": {
+            "6088": {
+                "product_id": 6088,
+                "product_name": "3D Illustration",
+                "type_of_works": {
+                    "40": {
+                        "type_of_work_id": 40,
+                        "type_of_work_name": "Production",
+                        "complexity": [
+                            "EDIT",
+                            "LOW"
+                        ]
+                    },
+                    "20": {
+                        "type_of_work_id": 20,
+                        "type_of_work_name": "Creative Development",
+                        "complexity": [
+                            "MEDIUM",
+                            "HIGH"
+                        ]
+                    }
+                }
+            },
+            "6090": {
+                "product_id": 6090,
+                "product_name": "3D Characters",
+                "type_of_works": {
+                    "40": {
+                        "type_of_work_id": 40,
+                        "type_of_work_name": "Production",
+                        "complexity": [
+                            "EDIT",
+                            "LOW"
+                        ]
+                    },
+                    "20": {
+                        "type_of_work_id": 20,
+                        "type_of_work_name": "Creative Development",
+                        "complexity": [
+                            "MEDIUM",
+                            "HIGH"
+                        ]
+                    }
+                }
+            },
+            "6089": {
+                "product_id": 6089,
+                "product_name": "3D Products",
+                "type_of_works": {
+                    "40": {
+                        "type_of_work_id": 40,
+                        "type_of_work_name": "Production",
+                        "complexity": [
+                            "EDIT",
+                            "LOW"
+                        ]
+                    },
+                    "20": {
+                        "type_of_work_id": 20,
+                        "type_of_work_name": "Creative Development",
+                        "complexity": [
+                            "MEDIUM",
+                            "HIGH"
+                        ]
+                    }
+                }
+            },
+            "6225": {
+                "product_id": 6225,
+                "product_name": "3D Spaces",
+                "type_of_works": {
+                    "40": {
+                        "type_of_work_id": 40,
+                        "type_of_work_name": "Production",
+                        "complexity": [
+                            "EDIT",
+                            "LOW"
+                        ]
+                    },
+                    "20": {
+                        "type_of_work_id": 20,
+                        "type_of_work_name": "Creative Development",
+                        "complexity": [
+                            "MEDIUM",
+                            "HIGH"
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    "2016": {
+        "service_id": 2016,
+        "service_name": "Motion Design",
+        "products": {
+            "6214": {
+                "product_id": 6214,
+                "product_name": "Audio Visual Scriptwriting",
+                "type_of_works": {
+                    "40": {
+                        "type_of_work_id": 40,
+                        "type_of_work_name": "Production",
+                        "complexity": [
+                            "LOW"
+                        ]
+                    },
+                    "20": {
+                        "type_of_work_id": 20,
+                        "type_of_work_name": "Creative Development",
+                        "complexity": [
+                            "MEDIUM",
+                            "HIGH"
+                        ]
+                    }
+                }
+            },
+            "6217": {
+                "product_id": 6217,
+                "product_name": "Sound and Music",
+                "type_of_works": {
+                    "40": {
+                        "type_of_work_id": 40,
+                        "type_of_work_name": "Production",
+                        "complexity": [
+                            "LOW"
+                        ]
+                    },
+                    "20": {
+                        "type_of_work_id": 20,
+                        "type_of_work_name": "Creative Development",
+                        "complexity": [
+                            "MEDIUM",
+                            "HIGH"
+                        ]
+                    }
+                }
+            },
+            "6215": {
+                "product_id": 6215,
+                "product_name": "Graphic Design",
+                "type_of_works": {
+                    "40": {
+                        "type_of_work_id": 40,
+                        "type_of_work_name": "Production",
+                        "complexity": [
+                            "EDIT",
+                            "LOW"
+                        ]
+                    },
+                    "20": {
+                        "type_of_work_id": 20,
+                        "type_of_work_name": "Creative Development",
+                        "complexity": [
+                            "MEDIUM",
+                            "HIGH"
+                        ]
+                    }
+                }
+            },
+            "6212": {
+                "product_id": 6212,
+                "product_name": "Strategy",
+                "type_of_works": {
+                    "10": {
+                        "type_of_work_id": 10,
+                        "type_of_work_name": "Strategy/Audits",
+                        "complexity": [
+                            "MEDIUM",
+                            "HIGH"
+                        ]
+                    }
+                }
+            },
+            "6213": {
+                "product_id": 6213,
+                "product_name": "Concept",
+                "type_of_works": {
+                    "20": {
+                        "type_of_work_id": 20,
+                        "type_of_work_name": "Creative Development",
+                        "complexity": [
+                            "MEDIUM",
+                            "HIGH"
+                        ]
+                    }
+                }
+            },
+            "6216": {
+                "product_id": 6216,
+                "product_name": "Motion Graphics",
+                "type_of_works": {
+                    "40": {
+                        "type_of_work_id": 40,
+                        "type_of_work_name": "Production",
+                        "complexity": [
+                            "EDIT",
+                            "LOW"
+                        ]
+                    },
+                    "20": {
+                        "type_of_work_id": 20,
+                        "type_of_work_name": "Creative Development",
+                        "complexity": [
+                            "MEDIUM",
+                            "HIGH"
+                        ]
+                    }
+                }
+            }
+        }
+    }
+}
