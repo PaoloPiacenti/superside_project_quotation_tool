@@ -142,6 +142,7 @@ if st.button("Calculate Quotation"):
 
 if st.button("New Quotation"):
     st.session_state.clear()
+    st.session_state.df = pd.DataFrame()
 
 # Footer
 st.markdown("---")
