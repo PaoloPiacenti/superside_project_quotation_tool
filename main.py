@@ -124,15 +124,14 @@ if st.button("Identify Components"):
     with st.spinner("Decomposing the project..."):
         result = analyze_project_with_json_in_prompt(project_brief, json_filepath, api_key)
         if "components" in result:
-            df = pd.DataFrame(result["components"])
-            st.session_state.df = df
-            st.write("### Identified Components:")
-            st.data_editor(df, num_rows="dynamic", key="edited_df")
+            st.session_state.df = pd.DataFrame(result["components"])
 
-if "df" in st.session_state and st.button("Calculate Quotation"):
+st.write("### Identified Components:")
+st.session_state.df = st.data_editor(st.session_state.df, num_rows="dynamic", key="edited_df")
+
+if st.button("Calculate Quotation"):
     with st.spinner("Calculating work hours..."):
-        df = st.session_state.df
-        quotation_df = calculate_quotation(df, csv_filepath)
+        quotation_df = calculate_quotation(st.session_state.df, csv_filepath)
         st.session_state.quotation_df = quotation_df
         st.write("### Project Quotation:")
         st.dataframe(quotation_df)
